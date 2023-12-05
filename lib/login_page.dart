@@ -8,7 +8,7 @@ class loginPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.green[900],
+      backgroundColor: Colors.green[400],
       body: Padding(
         padding: EdgeInsets.all(20),
         child: Column(
@@ -188,7 +188,7 @@ class loginPage extends StatelessWidget {
                   child: Text(
                     'Clicker ici',
                     style: TextStyle(
-                      color: Colors.amber,
+                      color: Colors.amber[900],
                     ),
                   ),
                 ),

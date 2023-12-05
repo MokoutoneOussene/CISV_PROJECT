@@ -10,7 +10,7 @@ class registerPage extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Création de compte'),
       ),
-      backgroundColor: Colors.green[900],
+      backgroundColor: Colors.green[400],
       body: Padding(
         padding: EdgeInsets.all(20),
         child: Column(
