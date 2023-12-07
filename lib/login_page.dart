@@ -17,7 +17,7 @@ class loginPage extends StatelessWidget {
               height: 30,
             ),
             Text(
-              'BIENVENUE DANS GEST-CISV',
+              'BIENVENUE DANS Aux côtés du Burkina Faso',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 22,
